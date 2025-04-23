@@ -4,6 +4,4 @@ This repo contains real-world AI/ML projects built with open-source tools and lo
 
 ## 🔧 Use Cases
 
-- [🧠 Image-to-Text + Action](image-to-action/README.md)
-- [🎥 Video Summarizer](video-summarizer/README.md)
-- [🔍 PDF/Doc RAG Search](doc-search-rag/README.md)
+- [🧠 Image-to-Text + Action](image_to_action/README.md)
