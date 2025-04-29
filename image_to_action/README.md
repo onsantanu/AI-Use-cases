@@ -53,8 +53,8 @@
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/image-to-action
-cd image-to-action
+git clone https://github.com/onsantanu/AI-Use-cases
+cd AI-Use-cases/image-to-action
 
 # Install dependencies
 pip install -r requirements.txt
